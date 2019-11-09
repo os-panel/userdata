@@ -1,0 +1,15 @@
+
+/MariaDB-*
+/MySQL-*
+/Redis-*
+/PostgreSQL-*
+/Bind-*
+/temp
+/iconcache
+/logs
+/profiles/*_aliases.txt
+/profiles/*_domains.txt
+/profiles/*_links.txt
+/config/cert_files
+/config/error_pages
+/ssid.txt

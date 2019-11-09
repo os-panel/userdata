@@ -1,0 +1,1 @@
+:;static;123456;rw;%sitedir%\yii\static\web\
